@@ -1,5 +1,6 @@
 ### About
-
+![](https://www.codewars.com/users/far-rainbow/badges/small)
+<br>
 ![](https://github-readme-stats.vercel.app/api?username=far-rainbow&show_icons=true&theme=nord)
 
 <!--
